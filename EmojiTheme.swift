@@ -26,7 +26,7 @@ struct HalloweenTheme: EmojiTheme {
 struct HandsTheme: EmojiTheme {
     let name = "Hands"
     let icon = "hand.raised"
-    let emojis = ["🫶🏿", "👐🏽", "🫱🏻‍🫲🏽", "✌️", "🖖🏻", "🖕🏾", "🤌", "🤙🏼", "🤜🏿", "👉🏽"]
+    let emojis = ["🫶🏿", "👐🏽", "🫱🏻‍🫲🏽", "✌️", "🖖🏻", "🤏", "🤌", "🤙🏼", "🤜🏿", "👉🏽"]
     let nPairs = 5
     let cardColor = "yellow"
 }
@@ -42,7 +42,7 @@ struct SportsTheme: EmojiTheme {
 struct FlagTheme: EmojiTheme {
     let name = "Flags"
     let icon = "flag"
-    let emojis = [ "🇧🇷", "🇨🇦", "🇭🇷", "🇯🇵", "🇪🇸", "🇬🇧", "🇺🇸", "🇵🇹", "🇨🇴"]
+    let emojis = [ "🇧🇷", "🇨🇦", "🇭🇷", "🇯🇵", "🇪🇸", "🇬🇧", "🇺🇸", "🇵🇹", "🇨🇴","🇷🇺"]
     let nPairs = 6
     let cardColor = "red"
 }
